@@ -4,18 +4,15 @@
 Ratnabali Pal
 
 ### Abstract
-Using Python to solve and achieve state-of-the-accuracy for regression and classification problems.uploads codes for 
-following datasets:
-1.wine quality datasets
-2.Pima-diabetics
-3.Iris datasets
-4.Boston- house price
-5.Sonar-All datasets
-6.Seeds datasets
-7.Ionosphere datasets
-8.Abalone datasets
-9.Banknote datasets
-10.Swedish Auto Insurance Dataset
+In this study, we explore the potential of pre-trained deep learning models, proposing a new approach that
+emphasizes their reusability and adaptability. Our framework, termed “customizable” deep learning,
+facilities users to seamlessly integrate diverse pre-trained models for addressing new tasks and enhancing
+existing solutions. Furthermore, we introduce a “programmable” adapter that enables the flexible
+combination of different pre-trained modules, expanding the range of applications and customization
+options. Through empirical experiments, particularly focusing on Visual Question Answering (VQA) for
+visually impaired (VI) individuals, we demonstrate the practical effectiveness of our methodology. These
+contributions advance the deep learning field while promoting customization and re-usability across
+various domains and tasks. The code is available https://github.com/Ratnabali-Pal/CPDA-VQA.
 
 ### License
 
