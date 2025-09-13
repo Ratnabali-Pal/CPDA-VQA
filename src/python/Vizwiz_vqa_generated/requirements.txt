@@ -1,0 +1,16 @@
+# Use the following command to install the dependencies:
+# pip install -r requirements.txt
+
+matplotlib
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+Pillow
+tqdm
+ftfy
+regex
+# CLIP is installed directly from GitHub in the original notebook.
+# You can include it here if you prefer, or keep a separate installation step.
+# git+https://github.com/openai/CLIP.git
