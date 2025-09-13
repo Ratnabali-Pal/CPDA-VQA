@@ -1,0 +1,12 @@
+# requirements.txt
+
+git+https://github.com/openai/CLIP.git
+matplotlib
+numpy
+pandas
+torch
+scikit-learn
+transformers
+ftfy
+tqdm
+Pillow
